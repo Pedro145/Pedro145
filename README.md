@@ -17,5 +17,5 @@
 <ul>
   <li>📧 <a href='https://www.linkedin.com/in/pedro-d%C3%A1valos-088640210/'> LinkedIn </a> </li>
   <li>💼 <a href=''> Portfolio </a> </li>
-  <li>📜 <a href=''> CV </a> </li>
+  <li>📜 <a href='https://www.linkedin.com/in/pedro-d%C3%A1valos-088640210/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAADV8zGgB18adU_mERQLHJLFLw13-zgwNE6E,1635472482572)/'> CV </a> </li>
 </ul>
