@@ -19,7 +19,3 @@
   <li>💼 <a href=''> Portfolio </a> </li>
   <li>📜 <a href=''> CV </a> </li>
 </ul>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinJaime99&layout=compact&theme=graywhite)](https://github.com/JehhS/github-readme-stats)
-</br>
-![Agustin Diego Jaime GitHub stats](https://github-readme-stats.vercel.app/api?username=agustinjaime99&show_icons=true&theme=radical&hide=issues,prs)
